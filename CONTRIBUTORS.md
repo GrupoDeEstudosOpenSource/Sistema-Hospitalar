@@ -6,5 +6,4 @@ O grupo
 Nome dos voluntários
 
 ## Dev Team.
-[Neverson Bento da Silva](https://github.com/Dersaun)  
 [AlexsanderCosta](https://github.com/SrSmile)
